@@ -1,0 +1,28 @@
+# Maven / Gradle output
+/target/
+/build/
+
+# Logs
+*.log
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# IDEs
+.idea/
+*.iml
+.classpath
+.project
+.settings/
+
+# Eclipse-specific
+.metadata/
+bin/
+.recommenders/
+
+# VS Code
+.vscode/
+
+# Environment and secrets
+.env
